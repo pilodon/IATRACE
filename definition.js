@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://raw.githubusercontent.com/pilodon/IATRACE/master/mainIAT.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://pilodon.github.io/IATRACE/mainIAT.js'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
 
 	return iatExtension({
