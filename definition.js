@@ -39,7 +39,7 @@ define(['pipAPI', 'https://raw.githubusercontent.com/pilodon/IATRACE/master/main
 		},	
 
 		base_url : {//Where are your images at?
-			image : 'https://github.com/pilodon/IATRACE'
+			image : 'https://github.com/pilodon/IATRACE/'
 		} 
 	});
 });
