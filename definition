@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://raw.githubusercontent.com/pilodon/IATRACE/master/main%20IAT'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
 
 	return iatExtension({
