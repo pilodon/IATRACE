@@ -39,7 +39,7 @@ define(['pipAPI', 'https://pilodon.github.io/IATRACE/mainIAT.js'], function(APIC
 		},	
 
 		base_url : {//Where are your images at?
-			image : 'https://github.com/pilodon/IATRACE/'
+			image : 'https://pilodon.github.io/IATRACE/'
 		} 
 	});
 });
